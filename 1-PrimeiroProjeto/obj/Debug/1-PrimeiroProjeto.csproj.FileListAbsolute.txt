@@ -1,0 +1,6 @@
+C:\Users\es00600333\source\repos\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
+C:\Users\es00600333\source\repos\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
+C:\Users\es00600333\source\repos\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
+C:\Users\es00600333\source\repos\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\es00600333\source\repos\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
+C:\Users\es00600333\source\repos\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb
