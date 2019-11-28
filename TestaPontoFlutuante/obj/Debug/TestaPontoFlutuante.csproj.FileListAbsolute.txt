@@ -1,0 +1,5 @@
+C:\Users\es00600333\source\repos\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe.config
+C:\Users\es00600333\source\repos\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe
+C:\Users\es00600333\source\repos\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.pdb
+C:\Users\es00600333\source\repos\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.exe
+C:\Users\es00600333\source\repos\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.pdb
