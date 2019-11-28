@@ -1,0 +1,6 @@
+C:\Users\es00600333\source\repos\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\es00600333\source\repos\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\es00600333\source\repos\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\es00600333\source\repos\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\es00600333\source\repos\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\es00600333\source\repos\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb

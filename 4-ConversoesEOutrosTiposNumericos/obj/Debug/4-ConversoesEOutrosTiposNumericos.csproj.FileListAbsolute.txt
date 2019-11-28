@@ -1,0 +1,5 @@
+C:\Users\es00600333\source\repos\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe.config
+C:\Users\es00600333\source\repos\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe
+C:\Users\es00600333\source\repos\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.pdb
+C:\Users\es00600333\source\repos\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.exe
+C:\Users\es00600333\source\repos\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.pdb
