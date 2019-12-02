@@ -1,0 +1,6 @@
+C:\Users\es00600333\source\repos\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe.config
+C:\Users\es00600333\source\repos\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\es00600333\source\repos\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.pdb
+C:\Users\es00600333\source\repos\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csprojAssemblyReference.cache
+C:\Users\es00600333\source\repos\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\es00600333\source\repos\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.pdb

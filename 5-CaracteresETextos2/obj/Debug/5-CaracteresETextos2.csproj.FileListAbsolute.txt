@@ -1,0 +1,6 @@
+C:\Users\es00600333\source\repos\5-CaracteresETextos2\bin\Debug\5-CaracteresETextos2.exe.config
+C:\Users\es00600333\source\repos\5-CaracteresETextos2\bin\Debug\5-CaracteresETextos2.exe
+C:\Users\es00600333\source\repos\5-CaracteresETextos2\bin\Debug\5-CaracteresETextos2.pdb
+C:\Users\es00600333\source\repos\5-CaracteresETextos2\obj\Debug\5-CaracteresETextos2.csprojAssemblyReference.cache
+C:\Users\es00600333\source\repos\5-CaracteresETextos2\obj\Debug\5-CaracteresETextos2.exe
+C:\Users\es00600333\source\repos\5-CaracteresETextos2\obj\Debug\5-CaracteresETextos2.pdb
